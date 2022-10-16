@@ -24,5 +24,6 @@ labeltext {
     height: 70px;
     width: 420px;
     display: block;
+    border-style: solid;
     border: 2px;
 }
