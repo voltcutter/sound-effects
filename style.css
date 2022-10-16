@@ -22,8 +22,9 @@ labeltext {
 
 .sound {
     height: 70px;
-    width: 420px;
-    display: block;
+    width: 800px;
+    /* display: block; */
     border-style: solid;
     border: 2px;
+    border-color: #000000;
 }
